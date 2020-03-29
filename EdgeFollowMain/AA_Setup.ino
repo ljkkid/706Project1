@@ -7,6 +7,8 @@ enum State_enum
     DEBUG
 };
 
+// Hello mate
+
 //Default motor control pins
 const byte left_front = 46;
 const byte left_rear = 47;
